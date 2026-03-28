@@ -4,5 +4,7 @@ error_log
 wordpress-*.zip
 wp-content/cache/
 wp-content/uploads/cache/
+wp-content/uploads/*.zip
+wp-content/uploads/**/*.zip
 node_modules/
 vendor/
