@@ -1,0 +1,8 @@
+wp-config.php
+*.log
+error_log
+wordpress-*.zip
+wp-content/cache/
+wp-content/uploads/cache/
+node_modules/
+vendor/
